@@ -19,6 +19,7 @@ Perpetaual Protocol (PERP)
 dYdX Protocol (DYDX)
 FutureSwap (FST)
 DerivaDex (DDX)
+
 When a new token meets the selection requirements, it is added to the index within 30 days of fulfilling said requirements.
 
 Methodology
