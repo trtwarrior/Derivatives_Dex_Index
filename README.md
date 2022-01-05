@@ -2,8 +2,8 @@
 
 Derivatives Dex Index (DERIDEX) is an unit weighted index that tracks the performance of the top derivatives dex exchange tokens. 
 
-Definitions and criteria:
-In contrast to traditional dex that trades spots product, the Derivatives Dex component companies will trade non spot products, including but not limited to: futures, swaps, options and exotics. The derivatives market are important cornerstone of finance market and we are excited to see that the DeFi world is hosting increasingly more and more successful derivatives exchanges.
+Index Description:
+In contrast to traditional dex that trades spots product, the Derivatives Dex component names will trade non spot products, including but not limited to: futures, swaps, options and exotics. The derivatives market are important cornerstone of finance market and we are excited to see that the DeFi world is hosting increasingly more and more successful derivatives exchanges.
 
 Criteria of inclusion:
 The token must be a governance token (or similar) of a decentralized derivatives exchange where derivatives are being traded or in beta phase;
