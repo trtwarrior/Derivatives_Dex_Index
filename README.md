@@ -1,6 +1,5 @@
-# Derivatives_Dex_Index
+# Derivatives Dex Index (DERIDEX)
 
-Derivatives Dex Index (DERIDEX)
 Derivatives Dex Index (DERIDEX) is an unit weighted index that tracks the performance of the top derivatives dex exchange tokens. 
 
 Definitions and criteria:
